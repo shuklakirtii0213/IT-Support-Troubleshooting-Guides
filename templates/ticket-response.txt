@@ -1,0 +1,13 @@
+Subject: Support Ticket Update - [Ticket ID]
+
+Hello [User's Name],
+
+We have reviewed your support ticket regarding [issue]. Based on our findings, please try the suggested steps in the attached guide/document. 
+
+If the issue persists, feel free to reach out for further assistance.
+
+Thank you for your cooperation.
+
+Best regards,
+Kirti Shukla
+Support Engineer
